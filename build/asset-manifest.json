@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.89cf6f2e.css",
+    "main.js": "/static/js/main.e863cd20.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/emotion.png": "/static/media/emotion.6dce3a00a5a515a8e363.png",
+    "static/media/logo.png": "/static/media/logo.e19337b906ed2785f29b.png",
+    "static/media/kumman.pdf": "/static/media/kumman.6e5656eeb157e36baa98.pdf",
+    "static/media/leaf.png": "/static/media/leaf.ec60c9a63a03115319fc.png",
+    "static/media/suicide.png": "/static/media/suicide.eb794ec5ef614c87ba6f.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/static/media/chatify.40d07c2ea666840fdd35.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.89cf6f2e.css.map": "/static/css/main.89cf6f2e.css.map",
+    "main.e863cd20.js.map": "/static/js/main.e863cd20.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89cf6f2e.css",
+    "static/js/main.e863cd20.js"
+  ]
+}
