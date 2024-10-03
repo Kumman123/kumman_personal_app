@@ -1,6 +1,6 @@
 <h2 align="center">
   Personal Portfolio Website<br/>
-  <a href="https://kumman.vercel.app/" target="_blank">Kumman.tech</a>
+  <a href="[https://kumman.vercel.app/](https://kummandas.web.app/)" target="_blank">Kumman.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
